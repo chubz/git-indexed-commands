@@ -17,10 +17,10 @@ setup(
     packages=find_packages(exclude=['tests', 'tests.*']),
     entry_points={
         'console_scripts': [
-            'git-istatus=gic.script:git_istatus_main',
-            'git-iadd=gic.script:git_iadd_main',
-            'git-icheckout=gic.script:git_icheckout_main',
-            'git-idiff=gic.script:git_idiff_main',
+            'git-istatus=git_indexed_commands.script:git_istatus_main',
+            'git-iadd=git_indexed_commands.script:git_iadd_main',
+            'git-icheckout=git_indexed_commands.script:git_icheckout_main',
+            'git-idiff=git_indexed_commands.script:git_idiff_main',
         ],
     },
     zip_safe=False,

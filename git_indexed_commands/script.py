@@ -2,7 +2,7 @@
 import argparse
 import subprocess
 
-from gic import util
+from git_indexed_commands import util
 
 
 def git_istatus(args):
