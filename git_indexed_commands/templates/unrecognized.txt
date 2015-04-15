@@ -1,0 +1,6 @@
+Files not recognized by pygit:
+
+{unrecognized}
+
+Please run git status --porcelain and report the output.
+You can report this as issue on pygit repository.

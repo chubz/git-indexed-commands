@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: git-indexed-commands
+Version: 0.1
+Summary: Working with indexes instead of filepaths in custom git commands
+Home-page: UNKNOWN
+Author: Borislav Petrović
+Author-email: petrovic.borislav@gmail.com
+License: BSD License
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7

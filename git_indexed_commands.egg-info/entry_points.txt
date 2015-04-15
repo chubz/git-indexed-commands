@@ -1,0 +1,6 @@
+[console_scripts]
+git-iadd = gic.script:git_iadd_main
+git-icheckout = gic.script:git_icheckout_main
+git-idiff = gic.script:git_idiff_main
+git-istatus = gic.script:git_istatus_main
+
